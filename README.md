@@ -1,0 +1,1 @@
+Ce projet implémente l’algorithme XU pour la détection de botnets à partir de flux NetFlow, en analysant les entropies relatives du trafic réseau.
